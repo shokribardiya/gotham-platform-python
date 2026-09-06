@@ -1,5 +1,5 @@
-<img width="1500" height="563" alt="shutterstock_2197639027 (1)" src="https://github.com/user-attachments/assets/33cefd80-8d6b-427a-ba5a-1e2e5e9b53b9" />
-<img width="1000" height="1233" alt="shutterstock_2102832148 (1)" src="https://github.com/user-attachments/assets/6e597542-3c19-4176-8acb-332eadc750d6" />
+<img width="2048" height="768" alt="hero-wave-dark" src="https://github.com/user-attachments/assets/64e3e50c-1a5d-4f77-8e71-8af656a38eb5" />
+
 # Gotham Platform SDK
 
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/gotham-platform-python)
